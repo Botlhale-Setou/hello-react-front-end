@@ -24,11 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖<a name="about-project">Hello React Rails Front end</a>
+# 📖<a name="about-project">Hello-React-Front-End</a>
 
-- A react app that displays a random message sent from the backend by making a simple get request.
+- A React app that displays a random message sent from the back-end by making a simple get request.
 
-Here is the backend repo [link](https://github.com/keebot-png/hello-rails-backend) for the api that I created that displays data that is fetched in the front end.
+Here is the backend repo [link](https://github.com/Botlhale-Setou/hello-rails-back-end) for the api that I created that displays data that is fetched in the front end.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,9 +70,9 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/keebot-png/hello-rails-front-end.git
+  git clone https://github.com/Botlhale-Setou/hello-react-front-end.git
 
-  cd hello-rails-front-end
+  cd hello-react-front-end
 
 ```
 
@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  npm update
+  npm install
 ```
 
 ### Usage
@@ -99,11 +99,10 @@ To run the project, execute the following command:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Keenan Botes**
-
-- GitHub: [@keebot-png](https://github.com/keebot-png)
-- Twitter: [@KeenanBotes](https://twitter.com/KeenanBotes)
-- LinkedIn: [kee.bot@icloud.com](https://www.linkedin.com/in/keenan-botes-947043160)
+👤 **Botlhale Setou**
+- GitHub: [@Botlhale-Setou](https://github.com/Botlhale-Setou)
+- LinkedIn: [@botlhalesetou](https://www.linkedin.com/in/botlhalesetou/)
+- Twitter: [@Botlhale_Setou](https://twitter.com/BotlhaleSetou)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +121,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Botlhale-Setou/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,9 +129,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project give it a ⭐️ on Github.
+If you like this project please give it a ⭐️ on Github!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +137,7 @@ If you like this project give it a ⭐️ on Github.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and learning opportunity.
+I would like to thank Microverse for the learning opportunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,6 +145,6 @@ I would like to thank Microverse and learning opportunity.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./license) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
