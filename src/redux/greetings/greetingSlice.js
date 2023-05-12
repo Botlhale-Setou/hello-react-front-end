@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const baseURL = 'http://localhost:4000/api/v1/greetings';
+const baseURL = 'http://localhost:3000/api/v1/greetings';
 
 const initialState = {
   created_at: '',
